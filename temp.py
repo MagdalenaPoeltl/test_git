@@ -4,5 +4,5 @@ Spyder Editor
 
 Dies ist eine temporäre Skriptdatei.
 """
-print('This is not funny')
+print('This is funny')
 input('Done')
